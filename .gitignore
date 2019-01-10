@@ -1,3 +1,7 @@
 *.tgz
 *.gz
 venv/
+.idea/
+data/
+reader.pyc
+utils.pyc
